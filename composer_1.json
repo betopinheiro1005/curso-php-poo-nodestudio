@@ -1,0 +1,14 @@
+{
+    "name": "nodestudio/composer",
+    "description": "Teste Composer",
+    "require": {
+        "twitter/bootstrap": "^5.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roberto Pinheiro",
+            "email": "betopinheiro1005@yahoo.com.br"
+        }
+    ]
+}
