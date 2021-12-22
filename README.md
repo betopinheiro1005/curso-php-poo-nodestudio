@@ -1,8 +1,8 @@
 # curso-php-poo-nodestudio
 Curso de PHP Orientado a Objetos - Node Studio (Rodrigo Santos de Oliveira)
 
-PHP Orientado a Objetos
-Node Studio (Rodrigo Santos de Oliveira)
+# PHP Orientado a Objetos
+## Node Studio (Rodrigo Santos de Oliveira)
 
 Lista de aulas:
 
@@ -33,4 +33,3 @@ Aula 24 - CRUD com PDO, Singleton e Autoload - Parte 1
 Aula 25 - CRUD com PDO, Singleton e Autoload - Parte 2
 Aula 26 - CRUD com PDO, Singleton e Autoload - Parte 3
 Aula 27 - CRUD com PDO, Singleton e Autoload - Parte 4
-
