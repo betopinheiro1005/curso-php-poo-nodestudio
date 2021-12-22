@@ -2,15 +2,15 @@
 ## Node Studio (Rodrigo Santos de Oliveira)
 ### Lista de aulas:  
 
-Aula 1 - Introdução  
-Aula 2 - Classes, atributos e métodos  
-Aula 3 - Getters and Setters  
-Aula 4 - Constructor  
-Aula 5 - Herança  
-Aula 6 - Modificadores de acesso  
-Aula 7 - Modificadores de acesso - 2  
-Aula 8 - Abstração  
-Aula 9 - Constantes, self e parent  
+Aula 01 - Introdução  
+Aula 02 - Classes, atributos e métodos  
+Aula 03 - Getters and Setters  
+Aula 04 - Constructor  
+Aula 05 - Herança  
+Aula 06 - Modificadores de acesso  
+Aula 07 - Modificadores de acesso - 2  
+Aula 08 - Abstração  
+Aula 09 - Constantes, self e parent  
 Aula 10 - Métodos e atributos estáticos  
 Aula 11 - Polimorfismo  
 Aula 12 - Interfaces  
