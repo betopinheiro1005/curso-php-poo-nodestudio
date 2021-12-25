@@ -1,5 +1,8 @@
 # Curso de PHP Orientado a Objetos
 ## Node Studio (Rodrigo Santos de Oliveira)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=hzy_P_H-1CQ&list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I)
+
 ### Lista de aulas:  
 
 Aula 01 - Introdução  
